@@ -7,8 +7,7 @@
 <section id="about-me" align="left">
 	<h3>Welcome to My Profile!</h3>
 	<p>I am currently studying <strong>Computer Science</strong>, as well as minoring in <strong>Mathematics</strong> and <strong>Statistics</strong>, at the University of Vermont! :evergreen_tree: :mountain:</p>
-  	<p>Additionally, I am diligently working on the <strong><a href="https://www.theodinproject.com/">Odin Project</a></strong>! :zap:</p>
-  	<p>My primary focus and passion as a developer is on full-stack web development! However, I am also deeply interested and passionate about the IoT and automation, particularly home automation.</p>
+  	<p>My primary focus and passion as a developer is full-stack web development! However, I am also deeply interested and passionate about the IoT and automation, particularly home automation.</p>
 </section>
 <section id="technology-stack" align="center">
 	<h2 align="center">:toolbox: Technology Stack :toolbox:</h2>
