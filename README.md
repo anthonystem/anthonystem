@@ -3,12 +3,6 @@
 </div>
 
 ---
-
-<section id="about-me" align="left">
-	<h3>Welcome to My Profile!</h3>
-	<p>I am currently studying <strong>Computer Science</strong>, as well as minoring in <strong>Mathematics</strong> and <strong>Statistics</strong>, at the University of Vermont! :evergreen_tree: :mountain:</p>
-  	<p>My primary focus and passion as a developer is full-stack web development! However, I am also deeply interested and passionate about the IoT and automation, particularly home automation.</p>
-</section>
 <section id="technology-stack" align="center">
 	<h2 align="center">:toolbox: Technology Stack :toolbox:</h2>
 	<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
